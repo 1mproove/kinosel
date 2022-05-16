@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<title>KinoSel</title>
+	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+	</head>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rubik&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="stylefilm.css">
+	<body>
+		<div class="wrapper">
+			<header class="header">
+			<div class="header__container">
+				<nav class="header__menu">
+					<ul class="menu__list">
+						<li class="menu__item"><a href="index.html" class="menu__link">Главная</a></li>
+						<li class="menu__item"><a href="film.html" target="" class="menu__link">Фильмы</a></li>
+					</ul>
+				</nav>
+				<div class="header__button">
+					<a href="reg.html" class="button button_purple">Регистрация</a>
+				</div>
+			</div>
+		</header>
+		<main>
+			<main class="main">
+				<section class="home">
+					<div class="home__container">
+						<div class="film">
+							<center>
+								<img src="f.jpg" alt="film">
+								<div>
+									Казнь <br> В кино с 21 апреля <br> Фильм оплачивается раз и  на всегда <br> цена покупки 500₽ <br>
+								</div>
+								<a href="oplata.html" class="text_block__button button">Прокат</a>
+							</center>
+						</div>
+						<div class="film">
+							<center>
+								<img src="ff.jpg" alt="film">
+								<div>
+									Крылья над берлином <br> В кино с 28 апреля <br> Фильм оплачивается раз и  на всегда <br> цена покупки 500₽ <br>
+								</div>
+								<a href="oplata.html" class="text_block__button button">Прокат</a>
+							</center>
+						</div>
+						<div class="film">
+							<center>
+								<img src="fff.jpg" alt="film">
+								<div>
+									Крио <br> В кино с 28 апреля <br> Фильм оплачивается раз и  на всегда <br> цена покупки 500₽ <br>
+								</div>
+								<a href="oplata.html" class="text_block__button button">Прокат</a>
+							</center>
+						</div>
+						<div class="film">
+							<center>
+								<img src="ffff.jpg" alt="film">
+								<div>
+									Брат <br> Уже в кино <br> Фильм оплачивается раз и  на всегда <br> цена покупки 500₽ <br>
+								</div>
+								<a href="oplata.html" class="text_block__button button">Прокат</a>
+							</center>
+						</div>
+						<div class="film">
+							<center>
+								<img src="fffff.jpg" alt="film">
+								<div>
+									Брат 2 <br> Уже в кино <br> Фильм оплачивается раз и  на всегда <br> цена покупки 500₽ <br>
+								</div>
+								<a href="oplata.html" class="text_block__button button">Прокат</a>
+							</center>
+						</div>
+						<div class="film">
+							<center>
+								<img src="fg.jpg" alt="film">
+								<div>
+									Холоп <br> Уже в кино <br> Фильм оплачивается раз и  на всегда <br> цена покупки 500₽ <br>
+								</div>
+								<a href="oplata.html" class="text_block__button button">Прокат</a>
+							</center>
+							</center>
+						</div>
+					</div>
+				</section>
+			</main>
+		</main>
+</html>
